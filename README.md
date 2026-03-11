@@ -2,7 +2,7 @@
 2026년 1학기 '빅데이터분석프로그래밍' 교과목
 
 ## 온라인 출석과 수업 참여
-- [A반(QA) 수요일 오전]()
+- [A반(QA) 수요일 오전](https://docs.google.com/spreadsheets/d/1D6ayWWOMeVnYbkdMYzPTb6pRjdNcvLFk4VPmn_ylpus/edit?usp=sharing)
 - [B반(QB) 수요일 오후](https://docs.google.com/spreadsheets/d/1eSEnDMEoiSUiUgyeKz_xyt1tmn8EPJ3cRPKXZdKE7i4/edit?usp=sharing)
 
 ## 타이타닉 열(변수) 설명
